@@ -1,0 +1,25 @@
+.bg-orange {
+	background-color: #ff6527;
+}
+
+.btn-orange {
+    background-color: #ff6527;
+    border-color: #ff6527;
+    color: #fff;
+}
+
+.btn-orange:hover {
+    background-color: #e65c1b;
+    border-color: #e65c1b;
+    color: #fff;
+}
+
+.btn-outline-orange {
+    background-color: transparent;
+    border-color: #ff6527;
+    color: #ff6527;
+}
+.btn-outline-orange:hover {
+    background-color: #ff6527;
+    color: #fff;
+}

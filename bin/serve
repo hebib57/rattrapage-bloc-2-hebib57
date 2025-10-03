@@ -1,0 +1,5 @@
+<?php
+
+exec('php -S localhost:8000 -t public');
+// Serve the application using PHP's built-in server
+// This command will start a server at http://localhost:8000
