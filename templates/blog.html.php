@@ -1,9 +1,9 @@
 <!-- Page Header -->
-<header class="bg-orange text-white text-center py-5 mb-4">
+<!-- <header class="bg-orange text-white text-center py-5 mb-4">
     <div class="container">
         <h1 class="fw-light">Tous nos articles</h1>
     </div>
-</header>
+</header> -->
 
 <!-- Page Content -->
 <div class="container">
